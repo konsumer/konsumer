@@ -1,6 +1,6 @@
 ## HI 👋
 
-I make a ton of software, in a few seemingly-random areas of interest, with lots of programming languages. I am fluent & productive in over 100, but for practical reasons, I tend to stick to just a few.
+I make a ton of open-source software, in a few seemingly-random areas of interest, with lots of programming languages. I am fluent & productive in over 100, but for practical reasons, I tend to stick to just a few (favorites right now are javascript, python, nim, lua, and rust.)
 
 😄 Pronouns: he/him/his
 
