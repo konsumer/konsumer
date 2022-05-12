@@ -4,7 +4,7 @@ I make a ton of open-source software, in a few seemingly-random areas of interes
 
 😄 Pronouns: he/him/his
 
-👯 I’m looking to collaborate: making music, programming-tools (for sound, web-dev, and more) and accessible hacking-tools (especially for for kids.)
+👯 I’m looking to collaborate: making music, programming-tools (for sound, game-making, web-dev, and more) and accessible hacking-tools (especially for for kids.)
 
 💬 Ask me about: Whatever you like. If I am feeling like I don't have time, I may not answer or be a bit gruff, but I do enjoy helping people with their projects. Don't take it personal if I don't get right back. I'm pretty busy.
 
