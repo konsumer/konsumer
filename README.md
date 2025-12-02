@@ -8,4 +8,4 @@ I make a ton of open-source software, in a few seemingly-random areas of interes
 
 🔭 I’m currently working on: [node-raylib](https://github.com/RobLoach/node-raylib), [null0](https://github.com/notnullgames/null0), [crossaudio](https://konsumer.js.org/crossaudio/), [nuked](https://github.com/konsumer/nuked), [pntr](https://github.com/robloach/pntr), [null-units](https://github.com/konsumer/null-units), [easywasm](https://github.com/orgs/easywasm/repositories), [nomadnet-js](https://github.com/konsumer/nomadnet-js), [cyd-nomad](https://github.com/konsumer/cyd-nomad) and probably a lot more
 
-![Konsumer's GitHub stats](https://github-readme-stats-konsumer.vercel.app/api?username=konsumer&show_icons=true)
+![Konsumer's GitHub stats](https://github-readme-stats-konsumer.vercel.app/api?username=konsumer&show_icons=true&theme=transparent)
